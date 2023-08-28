@@ -1,0 +1,15 @@
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\bin\Debug\net7.0\FreelancerPortfolio.DAL.deps.json
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\bin\Debug\net7.0\FreelancerPortfolio.DAL.dll
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\bin\Debug\net7.0\FreelancerPortfolio.DAL.pdb
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\bin\Debug\net7.0\FreelancerPortfolio.Domain.dll
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\bin\Debug\net7.0\FreelancerPortfolio.Domain.pdb
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\obj\Debug\net7.0\FreelancerPortfolio.DAL.csproj.AssemblyReference.cache
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\obj\Debug\net7.0\FreelancerPortfolio.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\obj\Debug\net7.0\FreelancerPortfolio.DAL.AssemblyInfoInputs.cache
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\obj\Debug\net7.0\FreelancerPortfolio.DAL.AssemblyInfo.cs
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\obj\Debug\net7.0\FreelancerPortfolio.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\obj\Debug\net7.0\FreelancerPortfolio.DAL.csproj.CopyComplete
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\obj\Debug\net7.0\FreelancerPortfolio.DAL.dll
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\obj\Debug\net7.0\refint\FreelancerPortfolio.DAL.dll
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\obj\Debug\net7.0\FreelancerPortfolio.DAL.pdb
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.DAL\obj\Debug\net7.0\ref\FreelancerPortfolio.DAL.dll

@@ -1,0 +1,12 @@
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\Domain\bin\Debug\net7.0\FreelancerPortfolio.Domain.deps.json
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\Domain\bin\Debug\net7.0\FreelancerPortfolio.Domain.dll
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\Domain\bin\Debug\net7.0\FreelancerPortfolio.Domain.pdb
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\Domain\obj\Debug\net7.0\FreelancerPortfolio.Domain.csproj.AssemblyReference.cache
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\Domain\obj\Debug\net7.0\FreelancerPortfolio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\Domain\obj\Debug\net7.0\FreelancerPortfolio.Domain.AssemblyInfoInputs.cache
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\Domain\obj\Debug\net7.0\FreelancerPortfolio.Domain.AssemblyInfo.cs
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\Domain\obj\Debug\net7.0\FreelancerPortfolio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\Domain\obj\Debug\net7.0\FreelancerPortfolio.Domain.dll
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\Domain\obj\Debug\net7.0\refint\FreelancerPortfolio.Domain.dll
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\Domain\obj\Debug\net7.0\FreelancerPortfolio.Domain.pdb
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\Domain\obj\Debug\net7.0\ref\FreelancerPortfolio.Domain.dll

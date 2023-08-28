@@ -1,0 +1,17 @@
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\bin\Debug\net7.0\FreelancerPortfolio.Service.deps.json
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\bin\Debug\net7.0\FreelancerPortfolio.Service.dll
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\bin\Debug\net7.0\FreelancerPortfolio.Service.pdb
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\bin\Debug\net7.0\FreelancerPortfolio.DAL.dll
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\bin\Debug\net7.0\FreelancerPortfolio.Domain.dll
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\bin\Debug\net7.0\FreelancerPortfolio.Domain.pdb
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\bin\Debug\net7.0\FreelancerPortfolio.DAL.pdb
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\obj\Debug\net7.0\FreelancerPortfolio.Service.csproj.AssemblyReference.cache
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\obj\Debug\net7.0\FreelancerPortfolio.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\obj\Debug\net7.0\FreelancerPortfolio.Service.AssemblyInfoInputs.cache
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\obj\Debug\net7.0\FreelancerPortfolio.Service.AssemblyInfo.cs
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\obj\Debug\net7.0\FreelancerPortfolio.Service.csproj.CoreCompileInputs.cache
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\obj\Debug\net7.0\FreelancerPortfolio.Service.csproj.CopyComplete
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\obj\Debug\net7.0\FreelancerPortfolio.Service.dll
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\obj\Debug\net7.0\refint\FreelancerPortfolio.Service.dll
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\obj\Debug\net7.0\FreelancerPortfolio.Service.pdb
+C:\Users\kairbekov_m\source\repos\FreelancerPortfolio\FreelancerPortfolio.Service\obj\Debug\net7.0\ref\FreelancerPortfolio.Service.dll
